@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
 - 📫 How to reach me **kanungopratiyusha@gmail.com**
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/pratiyusha-kanungo)
+
 
 - ⚡ Fun fact **I think I am funny**
 
