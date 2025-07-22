@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prats4344&label=Profile%20views&color=0e75b6&style=flat" alt="prats4344" /> </p>
 
-- 🌱 I’m currently learning **React, GSAP animations, and Machine Learning (TensorFlow, Scikit-learn)**
+- 🌱 I’m currently learning **Deep Learning with TensorFlow, Model Optimization, and integrating AI with Web Applications**  
 
 - 👯 I’m looking to collaborate on **Open-source AI/ML Projects**
 
