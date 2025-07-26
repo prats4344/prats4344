@@ -13,9 +13,6 @@
 
 - 📫 How to reach me **kanungopratiyusha@gmail.com**
 
-- 📄 Know about my experiences  [View My Resume](https://docs.google.com/document/d/1wxJQEVlE-KDvqyK-7txtjEWGfcbNIvwylTxIXPQEZLE/view?usp=sharing)
-
-
 - ⚡ Fun fact **I can debug for hours but forget to drink water 😅**
 
 <h3 align="left">Connect with me:</h3>
